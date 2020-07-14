@@ -176,6 +176,12 @@ main::after {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-js {
+  
+  background-image: url("img/icon-js.svg") ;
+  background-size: 25px;
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
