@@ -94,7 +94,7 @@ main::after {
   box-shadow: 0 0 3px #cccccc;
 }
 
-.posts {
+.portfolio {
   min-height: 50px;
   margin: 20px 0;
   padding: 20px;
@@ -103,10 +103,10 @@ main::after {
   box-shadow: 0 0 5px #cccccc;
 }
 
-.hero-image {
-  margin-bottom: 620px;
-  margin-top: 200px;
-}
+/* .hero-image {
+  margin-bottom: 100px;
+  margin-top: 100px;
+} */
 
 .hero-image .container {
   max-width: 1408px;
@@ -127,9 +127,6 @@ main::after {
   line-height: 48px;
 }
 
-.intro {
-  margin: 0 0 120px;
-}
 
 .subheading {
   margin: 0 0 10px;
@@ -145,7 +142,7 @@ main::after {
   text-align: center;
 }
 
-.intro h3,
+.about-me h3,
 .portfolio h3 {
   margin: 0 0 12px;
   font-size: 28px;
@@ -153,7 +150,7 @@ main::after {
   font-weight: 500;
 }
 
-.intro p {
+.about-me p {
   margin: 0 0 32px;
 }
 
